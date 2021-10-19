@@ -1,3 +1,4 @@
+import eight
 import eleventh
 import eten
 import fifth
@@ -10,7 +11,10 @@ import seventh
 import sixth
 import svten
 import sxten
+import ten
 import third
+import thten
+import twelve
 
 
 def run_f_py():
@@ -53,7 +57,7 @@ def run_eleventh_py():
 # run_sec_py()
 # run_third_py()
 # run_fourth_py()
-run_fifth_py()
+# run_fifth_py()
 # run_sixth_py()
 # run_eleventh_py()
 # ften.Factorio()
@@ -62,3 +66,6 @@ run_fifth_py()
 # svten.calc(1, 2)
 # eten.proc_func()
 # seventh.calc_bolt()
+# eight.Converter(1, 12, 13)
+# thten.Flower(1).start_life_cycle()
+print(twelve.get_string("12421512asfgh1245", '+'))
